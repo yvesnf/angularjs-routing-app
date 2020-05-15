@@ -24,4 +24,4 @@ lite-server
 ## Authors
 
 Yves Navarro 
-ex. [@yvesnf](https://twitter.com/yvesnf)
+[@yvesnf](https://twitter.com/yvesnf)
