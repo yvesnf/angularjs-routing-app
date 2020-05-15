@@ -17,7 +17,7 @@ You can clone the project or download it. You choose.
 If you want to see the demo in your computer in a quick way, install lite-server on your system using npm. Then run the following comands: 
 
 ```
-npm intall
+npm install
 lite-server
 ```
 
